@@ -74,6 +74,9 @@
 - due_date
 - returned_at（nullable、返却されてなければNULL）
 
+## 開発ログ
+設計判断やエラー対応の詳細は [DEVLOG.md](./DEVLOG.md) にまとめています。
+
 ### ER図
 
 ```mermaid
