@@ -19,6 +19,7 @@
 - 返却期限を過ぎた資産を確認しやすくしたい
 
 と考えたことをきっかけに開発しました。
+<img width="774" height="571" alt="スクリーンショット 2026-09-13 11 39 02" src="https://github.com/user-attachments/assets/e3d550fb-80d4-4094-9cbb-7ddf3a7d0854" />
 
 また、JavaやSpring Bootを使用したWebアプリケーション開発を実践し、プログラミングの知識を深めることも目的としています。
 
@@ -93,28 +94,23 @@ Spring Securityを使用したログイン認証機能を実装しています�
 ## 🖥️ 画面
 
 ### ログイン画面
-
-![ログイン画面](images/login.png)
+<img width="660" height="507" alt="スクリーンショット 2026-09-13 11 39 58" src="https://github.com/user-attachments/assets/b9a8bffd-232e-4b5a-8045-55291e8a0794" />
 
 ### トップページ
-
-![トップページ](images/home.png)
+<img width="1133" height="723" alt="スクリーンショット 2026-09-13 11 40 32" src="https://github.com/user-attachments/assets/188c0a42-636d-47ac-8dd8-d32fbaf18b39" />
 
 ### 資産一覧
-
-![資産一覧](images/assets.png)
+<img width="1173" height="489" alt="スクリーンショット 2026-09-13 12 55 52" src="https://github.com/user-attachments/assets/6dbb5b12-c154-43f6-af73-6bee7e289a5d" />
 
 ### 資産登録
-
-![資産登録](images/asset-form.png)
+<img width="1047" height="689" alt="スクリーンショット 2026-09-13 12 56 29" src="https://github.com/user-attachments/assets/e721095f-94b2-4e2c-9f33-b09aa52f0820" />
 
 ### 資産貸出
-
-![資産貸出](images/loan-form.png)
+<img width="974" height="700" alt="スクリーンショット 2026-09-13 12 57 10" src="https://github.com/user-attachments/assets/0df227cc-8c86-489b-b6ca-b5d79d6771f0" />
 
 ### 返却期限リマインド
+<img width="1125" height="315" alt="スクリーンショット 2026-09-13 14 47 30" src="https://github.com/user-attachments/assets/e9178ff8-a6c5-4d20-b4c9-ac0f0a618608" />
 
-![返却期限リマインド](images/reminders.png)
 
 ---
 
