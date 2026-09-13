@@ -19,7 +19,6 @@
 - 返却期限を過ぎた資産を確認しやすくしたい
 
 と考えたことをきっかけに開発しました。
-<img width="774" height="571" alt="スクリーンショット 2026-09-13 11 39 02" src="https://github.com/user-attachments/assets/e3d550fb-80d4-4094-9cbb-7ddf3a7d0854" />
 
 また、JavaやSpring Bootを使用したWebアプリケーション開発を実践し、プログラミングの知識を深めることも目的としています。
 
